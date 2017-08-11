@@ -1,0 +1,13 @@
+body{
+    font-family: Tahoma;
+    font-size: 11px;
+    color: red;
+    font-style: italic;
+}
+
+ul.li{
+    font-family: Consolas;
+}
+h1{
+    text-transform: uppercase;
+}
